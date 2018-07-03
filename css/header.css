@@ -31,6 +31,7 @@ header .carrito{
 
 header .carrito a{
 	color: #646464;
+	display:block;
 	border: 2px solid #646464;
 	border-radius: 25px;
 	padding: 5px 15px;
